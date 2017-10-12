@@ -16,7 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".activity.GellarySwitcherActivity"/>
+        <activity android:name=".activity.GellarySwitcherActivity" />
+        <activity android:name=".activity.ListViewActivity" />
+        <activity android:name=".activity.DrawerActivity" />
     </application>
 
 </manifest>
